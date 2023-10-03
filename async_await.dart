@@ -4,7 +4,7 @@ void main() async {
   
   try {
     
-    final value = await httpGet('https://fernando-herrera.com/cursos');
+    final value = await httpGet('https://www.google.com');
     print( value );
     
   } catch (err) {
